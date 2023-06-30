@@ -1,3 +1,7 @@
 a- El master recibio todos los archivos de las otras ramas
 b- Si, todos los cambios fueron visibles
 c- git clone -b (rama de gamma) (mi_repo) - actualizar el archivo - git checkout main - git merge (rama de gamma)
+d- No, debido a que son ramas diferentes 
+e- 
+f- git clone (rama de beta) - modificar el archivo - git push
+g- Las funciones de Gamma y Alfa fueron realizadas por la misma persona debido a que un compañero abandono la cursada
